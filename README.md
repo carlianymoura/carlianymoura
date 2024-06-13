@@ -4,5 +4,3 @@ Sou Oceanágrafa e sempre tive interesse em aprender a programar, recentemente t
 
 🌱 Atuamente estou aprendendo: java
 
-
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
